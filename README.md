@@ -84,3 +84,35 @@ It allows two players to play multiple rounds with score tracking and automatic 
 
 ---
 
+▶️ How to Run the Game
+1\. Make sure Python 3 is installed:
+
+```bash
+python --version
+
+
+2\. Clone the repository:
+
+```bash
+https://github.com/khadibd/Connect4-Tkinter
+
+
+3\. Navigate to the project folder:
+
+```bash
+cd Connect4-Tkinter
+
+
+4\. Run the game:
+
+```bash
+python connect_game.py
+
+
+
+
+Author
+
+Khadija Bouadi
+Email: bouadik02@gmail.com
+GitHub: khadibd
