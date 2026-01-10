@@ -89,31 +89,32 @@ It allows two players to play multiple rounds with score tracking and automatic 
 
 ```bash
 python --version
-
+```
 
 2\. Clone the repository:
 
 ```bash
 https://github.com/khadibd/Connect4-Tkinter
-
+```
 
 3\. Navigate to the project folder:
 
 ```bash
 cd Connect4-Tkinter
-
+```
 
 4\. Run the game:
 
 ```bash
 python connect_game.py
+```
 
 
 
+Author :
 
-Author
-
-Khadija Bouadi
+Eng. Khadija Bouadi
 Email: khadijabouadi00@gmail.com
 GitHub: khadibd
+
 
